@@ -1,0 +1,7 @@
+{
+  "name": "MelodyFlow - Editor de Audio Neural",
+  "description": "Un entorno de edición y análisis de audio profesional inspirado en Melodyne. Aprovecha Gemini 2.5 para la detección de tono polifónico y ofrece una interfaz elegante tipo piano roll para la edición visual de notas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
